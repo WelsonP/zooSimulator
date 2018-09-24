@@ -1,0 +1,76 @@
+10
+3
+Amazon Rainforest
+kappa
+10
+5
+101
+102
+103
+104
+105
+5
+3
+Toucan
+6
+Golden Lion Tamarin
+3
+Uakari Monkey
+5
+70
+14.99
+0
+true
+70.49
+3
+2
+Aquarium
+RIPley's Aquarium
+10
+6
+201
+202
+203
+204
+205
+206
+5
+2
+Blue Whale
+3
+Clownfish
+20
+130
+20.99
+365
+true
+true
+true
+true
+6
+Arctic
+Antarctica
+7
+4
+301
+302
+303
+304
+9
+5
+Polar bear
+3
+King penguin
+5
+Seal
+2
+Narwhal
+1
+Walrus
+17
+420
+5.99
+2456
+-10.13
+50.6
+true
