@@ -1,4 +1,5 @@
 # Introduction: #
+To run this program, download the project and compile ZooRunner.java to start the program in the console.
 
     This program is meant for managerial use in a zoo environment. Able to be used by both Managers and lower level staff working at the zoo, it tracks employee information such as name, employee number and their pay. Lower level staff are only able to access their own information but Managers can change the information contained within the Zoo, such as the Regions and Staff members that zoo contains. Regions contain different conditions that must be met in order for the particular region to be open. When the program is opened it will import Staff and Region information from designated text files. To begin the program the user must first log in using a pre-registered username and password. 
 
